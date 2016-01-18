@@ -6,14 +6,15 @@ Pretty straight forward:
 
 Python
 ------
-::
-	python quotes.py
-
+```
+	$ python quotes.py
+```
 
 Bash
 ----
-::
-	./quotes.sh
+```
+	$ ./quotes.sh
+```
 
 If you have any other nice quotes add them at the `quotes.txt` file and that is it.
 
